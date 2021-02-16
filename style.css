@@ -1,0 +1,44 @@
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.social-div {
+  height: 150px;
+  background-color: #48a3db;
+  margin-top: 30px;
+}
+
+.form-control {
+  border-radius: 20px;
+  background-color: rgb(243, 243, 243);
+  border: none;
+  font-size: 12px;
+}
+
+.button-sign {
+  background-color: #48a3db;
+  border-radius: 20px;
+  color: white;
+  font-size: 12px;
+}
+
+.caption-text {
+  font-size: 12px;
+}
+
+.card-title {
+  color: rgb(119, 119, 119);
+}
+
+.color-text {
+  color: rgb(119, 119, 119);
+}
+
+.or {
+  position: absolute;
+  top: -9%;
+  right: 48%;
+}
